@@ -107,4 +107,4 @@ flowchart LR
 
 - [*Molecular Cell Biology*, 4th ed. (NCBI Bookshelf)](https://www.ncbi.nlm.nih.gov/books/NBK21475/)
 - [DNA Learning Center — 3D animations](https://dnalc.cshl.edu/resources/3d/)
-- [MIT 7.28 Molecular Biology](https://ocw.mit.edu/courses/7-28-molecular-biology-spring-2005/)
+- [MIT OpenCourseWare — Biology courses](https://ocw.mit.edu/search/?d=Biology)

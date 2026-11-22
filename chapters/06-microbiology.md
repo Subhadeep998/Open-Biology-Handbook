@@ -106,4 +106,4 @@ Fermentation (curd, bread, idli, beer) · antibiotics (*Penicillium*, *Streptomy
 
 - [OpenStax Microbiology](https://openstax.org/details/books/microbiology)
 - [WHO — Antimicrobial resistance](https://www.who.int/health-topics/antimicrobial-resistance)
-- [ASM — Microbe resources](https://asm.org/Resources)
+- [American Society for Microbiology](https://asm.org)
