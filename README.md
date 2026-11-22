@@ -60,7 +60,7 @@ flowchart LR
 
 ## 🤝 Contributing
 
-Found an error, or want to add a chapter (plant biology, ecology, human physiology, biostatistics…)? [Open an issue](../../issues) or a pull request. Accuracy matters more than length — please cite a reliable source for corrections.
+Found an error, or want to add a chapter (plant biology, ecology, human physiology, biostatistics…)? [Open an issue](https://github.com/Subhadeep998/Open-Biology-Handbook/issues) or a pull request. Accuracy matters more than length — please cite a reliable source for corrections.
 
 ---
 
